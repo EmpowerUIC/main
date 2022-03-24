@@ -64,7 +64,6 @@
     });
 
 
-    function getURL() { window.location.href; } ;
 
     /* ==============================================
 		Scroll to top  
